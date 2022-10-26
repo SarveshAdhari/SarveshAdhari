@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarveshAdhari
-- 🌱 I’m currently learning Computer Science(B.Sc.)
+- 🌱 I have completed my Graduation in Computer Science(B.Sc.)
 - 📫 sarveshadhari7@gmail.com
 
 <!---
